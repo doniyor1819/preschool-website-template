@@ -1,5 +1,3 @@
-  # QOSHIMCHA.MD
-
   =>  Template Name    : Kider - Preschool Website Template
 
   =>  Template Link    : https://htmlcodex.com/preschool-website-template
